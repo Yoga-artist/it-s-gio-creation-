@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Adobe Premiere Pro",
+    "icon": "https://img.icons8.com/fluency/48/adobe-premiere-pro.png"
+  },
+  {
+    "name": "Adobe Photoshop",
+    "icon": "https://img.icons8.com/fluency/48/adobe-photoshop.png"
+  },
+  {
+    "name": "Adobe Animate",
+    "icon": "https://img.icons8.com/fluency/48/adobe-animate.png"
+  },
+  {
+    "name": "Adobe Illustrator",
+    "icon": "https://img.icons8.com/fluency/48/adobe-illustrator.png"
+  },
+  {
+    "name": "Autodesk Maya",
+    "icon": "https://img.icons8.com/color/48/autodesk-maya.png"
+  },
+  {
+    "name": "Blender",
+    "icon": "https://img.icons8.com/fluency/48/blender-3d.png"
+  },
+  {
+    "name": "Adobe After Effects",
+    "icon": "https://img.icons8.com/fluency/48/adobe-after-effects.png"
+  },
+  {
+    "name": "Content Creator",
+    "icon": "https://img.icons8.com/fluency/48/content.png"
+  },
+  {
+    "name": "Photographer",
+    "icon": "https://img.icons8.com/fluency/48/compact-camera.png"
+  },
+  {
+    "name": "AutoCAD",
+    "icon": "https://img.icons8.com/color/48/autocad--v1.png"
+  },
+   {
+ "name": "3D Painter",
+  "icon": "https://helpx-prod.scene7.com/is/image/HelpxProd/pt-appicon-noshadow-256?$png$&jpegSize=40&wid=40"
+}
+]

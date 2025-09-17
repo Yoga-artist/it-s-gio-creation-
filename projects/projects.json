@@ -1,0 +1,66 @@
+
+
+[
+
+  {
+    "name": "Graphics Design",
+    "desc": "Designed end-to-end digital branding for events, including posters, event passes, digital invites, and social media teasers.",
+    "image": "Dabnity",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Video Editing",
+    "desc": "Editing: Edited high-quality videos using Adobe Premiere Pro, with smooth transitions, color correction, audio mixing, and cinematic effects for enhanced storytelling.",
+    "image": "react-folio",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "2D Animation",
+    "desc": "Created engaging 2D animations using Adobe Animate, focusing on character movement, scene transitions, and storytelling for explainer.",
+    "image": "Ecommerce",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "3D Animation",
+    "desc": "Designed and animated 3D characters, objects, and environments using Autodesk Maya and Blender, focusing on realistic movement and camera dynamics.",
+    "image": "DevKrypt",
+    "category": "Webthree",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Logo Design",
+    "desc": "Developed custom logo concepts using Adobe Illustrator, including symbol mark, wordmark, and combination logos tailored to client vision.",
+    "image": "DevCord",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Motion Graphics",
+    "desc": "Built motion design assets with keyframe animation, masking, and effects layering in After Effects to deliver smooth and professional visuals.",
+    "image": "Devps",
+    "category": "full-stack",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  }
+
+]
